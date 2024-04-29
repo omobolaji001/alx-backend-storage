@@ -1,0 +1,2 @@
+// A script that list all documents that matches a filter in a collection
+db.school.find({ name: "Holberton school" });
